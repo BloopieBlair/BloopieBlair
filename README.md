@@ -1,8 +1,10 @@
 # Blair (BloopieBlair)
 
 Independent software developer focused on local AI architectures, media automation, data visualization, and game tooling. I build self-contained, high-performance applications designed to run locally on consumer hardware without subscription tiers, telemetry, or external API lock-in.
-ko_fi: bloopieblair
+
 ---
+ko_fi: bloopieblair
+https://ko-fi.com/bloopieblair
 
 ## Featured Projects
 
